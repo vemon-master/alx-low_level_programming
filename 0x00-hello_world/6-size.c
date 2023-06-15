@@ -5,8 +5,8 @@
  * Return: Always 0 (Success)
  */
 
-int main(void)
-//main code starts here
+int main(void) /*main code starts here*/
+/*main code starts here*/
 {
 printf("Size of a char: %zu byte(s)\n", sizeof(char));
 printf("Size of an int: %zu byte(s)\n", sizeof(int));
